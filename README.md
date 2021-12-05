@@ -23,13 +23,23 @@
     
     
     
-   ### 2 Créer un programme qui
-   
+   ### 2 Créer un programme
+        
+        Soit un tableau de numéros:
+        
+        int[] myNumbers = {10, 20, 30, 40};
    
         Le programme initialize un tableau d'éléments
    
    
         Le programme va boucler sur le tableau et afficher ses éléments
+        
+        Pour chaque élement :
+        
+        
+             Si un élément est inférieur à 20, il affichera: "ce numéro est inférieur à 20"
+        
+               Sinon il affichera: "Ce numéro est supérieur à 20 "
    
    
    
