@@ -43,5 +43,15 @@
    
    
    
+   ### 3 Inverser les valeur de 2 variables
+   
     
+        Créer un petit programme qui permet d'inverser les valeur de 2 variables
+        
+        Exemple :
+        
+        a = 10;
+        b = 20;
+        
+        Si vous finissez ce programme, La valeur de "a" sera 20 et la valeur de "b" sera 10; 
     
