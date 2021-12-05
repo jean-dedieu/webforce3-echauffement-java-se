@@ -22,3 +22,16 @@
     Le programme remerci l'utilisateur et lui dit aurevoir en ajoutant son nom
     
     
+    
+   ### 2 Créer un programme qui
+   
+   
+   Le programme initialize un tableau d'éléments
+   
+   
+   Le programme va boucler sur le tavbleau et afficher ses éléments
+   
+   
+   
+    
+    
