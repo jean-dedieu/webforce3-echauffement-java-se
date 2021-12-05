@@ -26,10 +26,10 @@
    ### 2 Créer un programme qui
    
    
-   Le programme initialize un tableau d'éléments
+        Le programme initialize un tableau d'éléments
    
    
-   Le programme va boucler sur le tavbleau et afficher ses éléments
+        Le programme va boucler sur le tableau et afficher ses éléments
    
    
    
