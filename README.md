@@ -53,5 +53,5 @@
         a = 10;
         b = 20;
         
-        Si vous finissez ce programme, La valeur de "a" sera 20 et la valeur de "b" sera 10; 
+        À la fin de ce programme, affichez les valeurs de 2 varibales.  La valeur de "a" sera 20 et la valeur de "b" sera 10; 
     
